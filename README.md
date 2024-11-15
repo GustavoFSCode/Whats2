@@ -11,7 +11,7 @@ O Whats2 foi desenvolvido com React, Styled-Components e Firebase. <br/>
 <br>
 
 <p align="center">
-  <img alt="WhatsApp Clone" src=".github/" width="100%">
+  <img alt="WhatsApp Clone" src=".github/Whats2.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
