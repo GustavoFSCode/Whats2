@@ -4,10 +4,6 @@
 O Whats2 foi desenvolvido com React, Styled-Components e Firebase. <br/>
 </p>
 
-<p align="center">
-  <a href="https://gustavofscode.github.io/">Visualize o projeto aqui!</a>
-</p>
-
 <br>
 
 <p align="center">
